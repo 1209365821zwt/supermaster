@@ -1,0 +1,5 @@
+@mixin wh($width,$height){
+  width:$width;
+  height:$height;
+  display: block;
+}
